@@ -19,7 +19,7 @@ description: Need a Wordpress site? DJBHosting can get you up and running in to 
 
 keywords: Wordpress, hosting, djbhosting, managed, VPS, dedicated, server, servers, database, support, technical, datacenter 
 
-baseurl: "djbhosting" # the subpath of your site, e.g. /blog
+baseurl: "/djbhosting" # the subpath of your site, e.g. /blog
 url: "https://www.danbennett.me" # the base hostname & protocol for your site, e.g. http://example.com
 
 github_username:  danbennettuk
