@@ -20,7 +20,7 @@ description: Need a Wordpress site? DJBHosting can get you up and running in to 
 keywords: Wordpress, hosting, djbhosting, managed, VPS, dedicated, server, servers, database, support, technical, datacenter 
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://127.0.0.1/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.danbennett.me/djbhosting/" # the base hostname & protocol for your site, e.g. http://example.com
 
 github_username:  danbennettuk
 google_analytics_tracking_id: 
