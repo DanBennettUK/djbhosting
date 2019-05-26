@@ -30,6 +30,13 @@ theme: minima
 plugins:
   - jekyll-feed
 incremental: true
+compress-site: yes
+
+encoding: "utf-8"
+compress_html: # - http://jch.penibelst.de/
+  clippings: all
+  ignore:
+    envs: development
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
