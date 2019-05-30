@@ -49,5 +49,6 @@ exclude:
    - vendor/cache/
    - vendor/gems/
    - vendor/ruby/
+   - 404.html
 
 include: ['.htaccess']
