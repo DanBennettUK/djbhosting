@@ -23,7 +23,7 @@ baseurl: "/djbhosting" # the subpath of your site, e.g. /blog
 url: "https://www.danbennett.me" # the base hostname & protocol for your site, e.g. http://example.com
 
 github_username:  danbennettuk
-google_analytics_tracking_id: 
+google_analytics_tracking_id: UA-141510027-1 
 # Build settings
 markdown: kramdown
 theme: minima
