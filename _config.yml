@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: DJBHOSTING - Managed Web Hosting 
+title: DJBHOSTING - Managed and Dedicated Web Hosting 
 email: contact@djbhosting.co.uk
 description: Need a Website? DJBHosting can get you up and running in to time and with no hassle. You focus on your content - DJBHosting will focus on setting the site up and installing any plugins, themes and features you require.
 
